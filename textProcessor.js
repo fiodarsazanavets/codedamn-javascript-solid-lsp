@@ -1,4 +1,4 @@
-class TextProcessor {
+class TextProcessor extends TextProcessorInterface {
 
     convertText(inputText) {
         
